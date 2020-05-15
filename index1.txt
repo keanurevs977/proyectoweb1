@@ -1,0 +1,42 @@
+<HTML>
+
+<HEAD>
+<title> full fit life </title>
+<link rel="shortcut icon" href="fit1.jpg"/>
+</HEAD>
+
+<BODY BGCOLOR=FFFAFA>
+<H1>Funciones</H1>
+<HR SIZE=16 COLOR=D3D3D3>
+<FONT SIZE=6 FACE=BRODWAY COLOR=BLACK>Redes Informaticas y redes
+para VOZ y DATOS </FONT>
+<P ALIGN=JUSTIFY>Realizamos Instalaciones de Cableado para Redes Informáticas en Pequeñas y Medianas
+empresas (Pymes) e Instalaciones de Cableado de gran envergadura así como la totalidad
+de una instalación industrial: Cableados de Voz, Datos y Video, Cableados Eléctricos,
+Proyectos Industriales, etc.</P>
+<CENTER>
+<IMG SRC="OM1.JPG" WIDTH=150 HEIGHT=150 />
+</CENTER>
+<BR>
+<P ALIGN=JUSTIFY>Para afrontar con total garantía y éxito la instalación de una Red Informática o Red de
+Comunicaciones, disponemos de equipos técnicos para cualquier proyecto o instalación en
+los que se tengan que cumplir requerimientos estrictos en cuanto a tiempos de desarrollo
+e instalación.</P>
+<MARQUEE BGCOLOR=F0F8FF> OTROS SERVICIOS </MARQUEE>
+<FONT FACE=BRODWAY SIZE=6 COLOR=BLACK> Certificación de Redes</FONT>
+<P ALIGN=JUSTIFY>La Certificación del Cableado de una Red Informática es un servicio básico e imprescindible
+que se debe exigir en cualquier instalación de cableado. Certificar una red de cable es la
+única garantía para asegurar que la red informática está libre de fallos y podrá soportar y
+ofrecer el rendimiento adecuado para cualquier solución informática o de comunicaciones
+en su red de cableado.</P>
+<BR>
+<FONT FACE=BRODWAY SIZE=6 COLOR=BLACK> Instalación de Fibra Óptica</FONT>
+<P ALIGN=JUSTIFY>Mediante fibra óptica se pueden enlazar redes con una gran disponibilidad de ancho de
+banda y sencilla instalación.</P>
+<P align=justify>-Conexión de Fibra Óptica.</P>
+<P align=justify>-Enlaces de Fibra Óptica.</P>
+<P align=justify>-Certificación y Comprobación de redes.</P>
+<P align=justify>-Redes de Fibra Óptica.</P>
+<IMG SRC="OM2.JPG" WIDTH=150 HEIGHT=150 HSPACE=175/> <IMG SRC="OM3.JPG" WIDTH=150 HEIGHT=150 HSPACE=175/>
+<HR SIZE=16 COLOR=D3D3D3>
+</BODY>
